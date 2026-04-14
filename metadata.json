@@ -1,0 +1,5 @@
+{
+  "name": "QuickBite",
+  "description": "A modern food ordering application with real-time updates, secure authentication, and a seamless menu browsing experience.",
+  "requestFramePermissions": []
+}
